@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CS560_Homework3_ToDoList</string>
+    <string name="TodoTitle">TODO-LIST</string>
+    <string name="add_todo">Add TODO</string>
+    <string name="add_another"><![CDATA[Save & Add Another]]></string>
+    <string name="save_go_back"><![CDATA[Save & Go Back]]></string>
+    <string name="go_back">Go Back</string>
+    <string name="add_header">Add New Tasks Below</string>
+    <string name="todo_hint">Task Name</string>
+</resources>
