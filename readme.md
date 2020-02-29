@@ -1,3 +1,5 @@
+# CS560_HW3_ToDoList
+
 ## Objectives
 The purpose of this assignment is to practice writing apps with multiple activities and improve your skills in the areas below:
 * Use of an Intent to pass data between two activities
